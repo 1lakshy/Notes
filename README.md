@@ -66,9 +66,8 @@ Firebase / Local DB (Data Layer)
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="assets/screenshot1.png" alt="Home Screen" width="250" />
-  <img src="assets/screenshot2.png" alt="Create Note" width="250" />
-  <img src="assets/screenshot3.png" alt="Dark Mode" width="250" />
+  <img src="https://github.com/1lakshy/Notes/blob/master/2.jpeg" alt="Home Screen" width="250" />
+  <img src="https://github.com/1lakshy/Notes/blob/master/3.jpeg" alt="Create Note" width="250" />
 </p>
 
 > 💡 Place your screenshots inside an `assets/` folder in your repository.
@@ -80,6 +79,7 @@ Firebase / Local DB (Data Layer)
 1. **Clone the repository**
    ```bash
    git clone https://github.com/1lakshy/Notes.git
+   ```
 Open the project in Android Studio
 
 Sync Gradle to install dependencies
@@ -117,24 +117,22 @@ app/
 Contributions are always welcome!
 To contribute:
 
-Fork this repository
+**Fork this repository**
 
-Create your feature branch
-
-bash
-Copy code
+**Create your feature branch**
+```bash
 git checkout -b feature/AmazingFeature
-Commit your changes
+```
 
-bash
-Copy code
+**Commit your changes**
+```bash
 git commit -m "Add some AmazingFeature"
-Push to the branch
-
-bash
-Copy code
+```
+**Push to the branch**
+```bash
 git push origin feature/AmazingFeature
-Open a Pull Request 🚀
+```
+**Open a Pull Request 🚀**
 
 🪪 License
 Distributed under the MIT License.
