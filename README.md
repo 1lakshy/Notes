@@ -1,9 +1,9 @@
 <!-- PROJECT LOGO -->
 <p align="center">
-  <img src="assets/app_icon.png" alt="Logo" width="120" height="120">
+  <img src="https://github.com/1lakshy/Notes/blob/master/app/src/main/ic_launcher-playstore.png" alt="Logo" width="120" height="120">
 </p>
 
-<h1 align="center">📝 Notes App</h1>
+<h1 align="center">Notes App</h1>
 
 <p align="center">
   A clean and minimalistic Android Notes application built using <b>Jetpack Compose</b>, <b>Kotlin</b>, <b>Firebase</b>, and <b>Dagger Hilt</b>.
@@ -101,8 +101,6 @@ Connect your device or emulator
 Click Run ▶️ in Android Studio
 
 📁 Project Structure
-kotlin
-Copy code
 app/
  ├── data/
  │   ├── model/
@@ -114,6 +112,7 @@ app/
  ├── viewmodel/
  ├── utils/
  └── MainActivity.kt
+
 🤝 Contributing
 Contributions are always welcome!
 To contribute:
@@ -142,10 +141,13 @@ Distributed under the MIT License.
 See LICENSE for more information.
 
 👨‍💻 Author
-Your Name
-📧 lakshy18sharma@gmail.com
-🔗 https://www.linkedin.com/in/lakshy-sharma-bab28424b/
-💻 [GitHub](https://github.com/1lakshy)
+Lakshy Arun Sharma
+
+📧 Email:lakshy18sharma@gmail.com
+
+🔗 Linkedin: https://www.linkedin.com/in/lakshy-sharma-bab28424b/
+
+💻 Github: https://github.com/1lakshy
 
 ⭐ If you like this project, give it a star on GitHub!
 
